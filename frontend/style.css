@@ -13,6 +13,9 @@ button {background-color: #1C5A4E;
         font-size: 200px;
         font-family: 'Montserrat', sans-serif;
         color:#FFEEDF; 
-        border:none; 
-        
+        border:none;
+        text-align: center;
+        vertical-align: middle;
+        line-height:normal;
+        box-sizing : content-box;
 }
