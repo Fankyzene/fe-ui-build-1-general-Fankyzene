@@ -14,8 +14,10 @@ button {background-color: #1C5A4E;
         font-family: 'Montserrat', sans-serif;
         color:#FFEEDF; 
         border:none;
-        text-align: center;
-        vertical-align: middle;
-        line-height:normal;
-        box-sizing : content-box;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+        align-content: stretch;
+        flex-wrap: nowrap;
 }
